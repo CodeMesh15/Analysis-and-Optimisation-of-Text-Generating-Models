@@ -2,9 +2,6 @@
 
 A research-focused project exploring enhancements in Recurrent Neural Network (RNN)-based language models by integrating syntactic (POS) information.
 
-> Developed as part of the SURA project at IIT Delhi.
-
----
 
 ## 📚 Project Overview
 
