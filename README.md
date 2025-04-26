@@ -38,18 +38,6 @@ Helper module that provides:
 - Loss function and accuracy calculation
 - Evaluation hooks
 
-
-
-Make sure you have the following installed:
-
-```bash
-pip install chainer numpy keras nltk
-
-
-
-# SURA-NLP
-Analysis and Optimisation of Text Generating Models
-
 ## Setup
 
 - python 3.4+
