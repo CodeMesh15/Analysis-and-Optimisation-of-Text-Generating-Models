@@ -70,3 +70,12 @@ Helper module that provides:
     9. *function* **compute_perplexity**: Routine to rewrite the result dictionary of LogReport to add perplexity values
 
 4. [`test_recnetwork.py`](test_recnetwork.py): Driver program for [`posword.py`](posword.py)
+   # Rec2 PyTorch
+
+This is a PyTorch reimplementation of the Rec2 model for part-of-speech prediction on the Brown corpus.
+
+## Train
+
+```bash
+python train.py --r1units 64 --r2units 64 --epochs 10
+
